@@ -1,0 +1,10 @@
+C:\Users\Utente\Desktop\GPT Imager\bin\Debug\Dalle-E Client.exe.config
+C:\Users\Utente\Desktop\GPT Imager\bin\Debug\Dalle-E Client.exe
+C:\Users\Utente\Desktop\GPT Imager\bin\Debug\Dalle-E Client.pdb
+C:\Users\Utente\Desktop\GPT Imager\bin\Debug\Dalle-E Client.xml
+C:\Users\Utente\Desktop\GPT Imager\obj\x86\Debug\Dall_E_Client.DallEClient.resources
+C:\Users\Utente\Desktop\GPT Imager\obj\x86\Debug\Dall_E_Client.Resources.resources
+C:\Users\Utente\Desktop\GPT Imager\obj\x86\Debug\VivacityDallE.vbproj.GenerateResource.Cache
+C:\Users\Utente\Desktop\GPT Imager\obj\x86\Debug\Dalle-E Client.exe
+C:\Users\Utente\Desktop\GPT Imager\obj\x86\Debug\Dalle-E Client.xml
+C:\Users\Utente\Desktop\GPT Imager\obj\x86\Debug\Dalle-E Client.pdb
